@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">Каталог белков</string>
     <string name="app_title">Каталог белков</string>
     <string name="action_toggle_theme">Переключить тему</string>
     <string name="action_toggle_lang">Переключить язык</string>
