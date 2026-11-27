@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Protein Catalog</string>
+    <string name="app_title">Protein Catalog</string>
+    <string name="action_toggle_theme">Toggle theme</string>
+    <string name="action_toggle_lang">Toggle language</string>
+    <string name="search">Search</string>
+    <string name="found">Found: %1$d</string>
+    <string name="not_found">Nothing found</string>
+    <string name="empty_search_description">No proteins found for your query. Try changing search keywords.</string>
+    <string name="back">Back</string>
+    <string name="full_name">Full name</string>
+    <string name="organism">Organism</string>
+    <string name="gene">Gene</string>
+    <string name="amino_acid_sequence">Amino acid sequence</string>
+    <string name="related_proteins">Related proteins</string>
+    <string name="unknown">Unknown</string>
+</resources>
