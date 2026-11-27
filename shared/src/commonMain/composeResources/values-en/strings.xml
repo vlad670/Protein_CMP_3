@@ -14,4 +14,6 @@
     <string name="amino_acid_sequence">Amino acid sequence</string>
     <string name="related_proteins">Related proteins</string>
     <string name="unknown">Unknown</string>
+    <string name="error_loading">Failed to load data</string>
+    <string name="retry">Retry</string>
 </resources>
