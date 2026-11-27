@@ -66,7 +66,8 @@ fun App() {
                             ProteinDetailScreen(
                                 state = state,
                                 onProteinClick = { backStack.add(Route.ProteinDetail(it)) },
-                                onBackClick = { if (backStack.size > 1) backStack.removeLastOrNull() }
+                                onBackClick = { if (backStack.size > 1) backStack.removeLastOrNull() },
+                                onRetryClick = viewModel::retry
                             )
                         }
                     }

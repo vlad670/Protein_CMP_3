@@ -14,4 +14,6 @@
     <string name="amino_acid_sequence">Последовательность аминокислот</string>
     <string name="related_proteins">Связанные белки</string>
     <string name="unknown">Не указано</string>
+    <string name="error_loading">Не удалось загрузить данные</string>
+    <string name="retry">Повторить</string>
 </resources>
